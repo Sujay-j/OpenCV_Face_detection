@@ -1,0 +1,1 @@
+In this project we are performing face detection and eye detection through image,video or real time using HaarCascades and opencv
